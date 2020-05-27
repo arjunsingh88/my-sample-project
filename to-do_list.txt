@@ -2,3 +2,6 @@
 -- Go shopping
 -- Wash hands
 -- Learn Git
+-- go to school
+-- talk to professor
+-- make presentation
