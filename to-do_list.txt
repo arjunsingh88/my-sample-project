@@ -1,3 +1,4 @@
 -- Meet Friends
 -- Go shopping
+-- Wash hands
 -- Learn Git
