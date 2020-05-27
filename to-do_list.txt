@@ -5,3 +5,4 @@
 -- go to school
 -- talk to professor
 -- make presentation
+-- internship search

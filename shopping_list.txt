@@ -4,3 +4,5 @@
 -- Hand sanitizer
 -- groceries
 -- pasta
+-- Milk
+-- cereals
