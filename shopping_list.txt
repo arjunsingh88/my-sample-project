@@ -2,3 +2,5 @@
 -- Beer (6 packs)
 -- Food
 -- Hand sanitizer
+-- groceries
+-- pasta
