@@ -6,3 +6,4 @@
 -- talk to professor
 -- make presentation
 -- internship search
+-- Visit Pharmafor the medicines

@@ -6,3 +6,5 @@
 -- pasta
 -- Milk
 -- cereals
+-- eggs
+-- medicines
