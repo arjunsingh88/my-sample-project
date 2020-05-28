@@ -8,3 +8,5 @@
 -- cereals
 -- eggs
 -- medicines
+-- juice
+-- running shoes
